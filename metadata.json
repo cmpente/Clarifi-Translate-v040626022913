@@ -1,0 +1,7 @@
+{
+  "name": "Clarifi Translate v040626022913",
+  "description": "Real-time, low-latency voice translation app.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
